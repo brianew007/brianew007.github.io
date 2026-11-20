@@ -12,20 +12,20 @@ nav_order: 3
 **Princeton University**, Department of Chemistry <br>
 Graduate Researcher, Hammes-Schiffer Group <!-- TODO: add years, e.g. (2024 – present) -->
 
-- Development of accurate and efficient nuclear-electronic orbital (NEO) methods for proton vibrational excitation energies and tunneling splittings
-- NEO general rate theory (NEO-GRT) for rate constants and kinetic isotope effects of hydrogen transfer reactions
+- Development of accurate and efficient nuclear-electronic orbital (NEO) methods for capturing nuclear quantum effects, such as proton vibrational excitation energies and tunneling splittings
+- NEO-based protocols for chemical reactions: pKa prediction with anharmonic Gibbs free energies, and NEO general rate theory (NEO-GRT) for rate constants and kinetic isotope effects
 - Member of the DOE Center for Hybrid Approaches in Solar Energy to Liquid Fuels (CHASE)
 
 **KAIST**, Department of Chemistry <br>
-Undergraduate Researcher <!-- TODO: add years -->
+Undergraduate Researcher with Prof. Young Min Rhee <!-- TODO: add years -->
 
 - Chemical-protein interactions using classical molecular dynamics simulations and docking
-- Computational photodynamics of OLED materials (exciton dynamics and fluorescence quenching) with Prof. Young Min Rhee
+- Computational photodynamics of OLED materials (exciton dynamics and fluorescence quenching)
 
 ### Software Development
 
 - **[Q-Chem](https://www.q-chem.com/)**: quantum chemistry program; contributor to NEO method development
-- **NEO-GRT package**: Python package for NEO general rate theory calculations of rate constants and KIEs; maintainer <!-- TODO: add a link to the repository if it is public -->
+- **NEO-GRT package**: package for NEO general rate theory calculations of rate constants and KIEs; maintainer <!-- TODO: add a link to the repository if it is public -->
 
 <!--
 TODO: uncomment and fill in when ready.

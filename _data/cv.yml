@@ -4,7 +4,7 @@
 # Lines starting with # are comments and are ignored.
 
 cv:
-  name: Jang Mok
+  name: Jang Mok Yoo
   label: Ph.D. Candidate in Chemistry
   email: jy8587@princeton.edu
   location: Princeton, NJ
@@ -46,19 +46,20 @@ cv:
         location: Princeton, NJ, USA
         # start_date: TODO
         highlights:
-          - Development of accurate and efficient NEO methods for proton vibrational excitation energies and tunneling splittings
-          - NEO general rate theory (NEO-GRT) for rate constants and kinetic isotope effects of hydrogen transfer reactions
+          - Development of accurate and efficient NEO methods for capturing nuclear quantum effects (e.g., proton vibrational excitation energies and tunneling splittings)
+          - NEO-based protocols for chemical reactions, including pKa prediction with anharmonic Gibbs free energies and NEO general rate theory (NEO-GRT) for rate constants and kinetic isotope effects
           - Maintainer of the NEO-GRT package; contributor to Q-Chem
           - Member of the DOE Center for Hybrid Approaches in Solar Energy to Liquid Fuels (CHASE)
 
       - company: KAIST, Department of Chemistry
-        position: Undergraduate Researcher
+        position: Undergraduate Researcher, Rhee Group
         location: Daejeon, Korea
         # start_date: TODO
         # end_date: TODO
         highlights:
+          - "Advisor: Prof. Young Min Rhee"
           - Chemical-protein interactions using classical molecular dynamics simulations and docking
-          - Computational photodynamics of OLED materials (exciton dynamics and fluorescence quenching) with Prof. Young Min Rhee
+          - Computational photodynamics of OLED materials (exciton dynamics and fluorescence quenching)
 
       # TODO: add teaching (TA) positions, e.g.
       # - company: Princeton University

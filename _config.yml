@@ -3,9 +3,9 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Jang
+first_name: Jang Mok
 middle_name:
-last_name: Mok
+last_name: Yoo
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -346,8 +346,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Mok]
-  first_name: [Jang, J.]
+  last_name: [Yoo]
+  first_name: [Jang Mok, J. M., J.M., Jang-Mok]
 
   style: apa
   locale: en
