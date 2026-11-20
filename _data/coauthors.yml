@@ -1,0 +1,5 @@
+# Co-author names in papers.bib that should link to a web page.
+# Key = lower-case last name; firstname = every spelling used in your .bib file.
+"hammes-schiffer":
+  - firstname: ["Sharon", "S."]
+    url: https://chemistry.princeton.edu/faculty-research/faculty/sharon-hammes-schiffer

@@ -1,0 +1,90 @@
+# CV data shown on the /cv/ page (RenderCV format).
+# Fill in the fields marked TODO. Entries without dates are fine; add start_date / end_date
+# (e.g. 2024-09 or 2024) when ready. An entry with a start_date and no end_date shows "Present".
+# Lines starting with # are comments and are ignored.
+
+cv:
+  name: Jang Mok
+  label: Ph.D. Student in Chemistry
+  email: jy8587@princeton.edu
+  location: Princeton, NJ
+
+  sections:
+    Education:
+      - institution: Princeton University
+        location: Princeton, NJ, USA
+        area: Chemistry
+        studyType: Ph.D.
+        # start_date: TODO (e.g. 2024-09)
+        highlights:
+          - "Advisor: Prof. Sharon Hammes-Schiffer"
+
+      - institution: KAIST
+        location: Daejeon, Korea
+        area: Chemistry (Minor in Computer Science)
+        studyType: B.S.
+        # start_date: TODO
+        # end_date: TODO
+        highlights:
+          - "Undergraduate research with Prof. Young Min Rhee"
+
+      - institution: University of California, Berkeley
+        location: Berkeley, CA, USA
+        area: Summer exchange program
+        studyType: Visiting Student
+        # start_date: TODO
+        # end_date: TODO
+
+      - institution: Korea Science Academy of KAIST
+        location: Busan, Korea
+        area: Science
+        studyType: High School
+        # start_date: TODO
+        # end_date: TODO
+
+    Experience:
+      - company: Princeton University, Department of Chemistry
+        position: Graduate Researcher, Hammes-Schiffer Group
+        location: Princeton, NJ, USA
+        # start_date: TODO
+        highlights:
+          - Nuclear-electronic orbital (NEO) methods and electron-proton correlation functionals
+          - Nonadiabatic rate theory (NEO-NATST / NEO-GRT) for hydrogen transfer and kinetic isotope effects
+          - Member of the DOE Center for Hybrid Approaches in Solar Energy to Liquid Fuels (CHASE)
+
+      - company: KAIST, Department of Chemistry
+        position: Undergraduate Researcher, Rhee Group
+        location: Daejeon, Korea
+        # start_date: TODO
+        # end_date: TODO
+        highlights:
+          - Computational photodynamics of OLED materials (exciton dynamics and fluorescence quenching)
+
+      # TODO: add teaching (TA) positions, e.g.
+      # - company: Princeton University
+      #   position: Teaching Assistant, CHM XXX
+      #   start_date: 2025-01
+      #   end_date: 2025-05
+
+    # TODO: uncomment and fill in the sections you want.
+    # Awards:
+    #   - title: Name of fellowship or award
+    #     awarder: Awarding organization
+    #     date: 2025
+
+    # Presentations:
+    #   - bullet: "Author list, *Title*, Conference name, City (Year). Poster/Oral"
+
+    Skills:
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "Python" # TODO: add more
+      - name: Quantum chemistry software
+        icon: fa-solid fa-atom
+        keywords: "Q-Chem (developer)" # TODO: edit
+
+    # Languages:
+    #   - name: Korean
+    #     summary: "Native"
+    #   - name: English
+    #     summary: "Fluent"
