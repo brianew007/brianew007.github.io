@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student · Department of Chemistry · <a href='https://www.princeton.edu/'>Princeton University</a>
+subtitle: Ph.D. Candidate · Department of Chemistry · <a href='https://www.princeton.edu/'>Princeton University</a>
 
 profile:
   align: right
@@ -23,8 +23,8 @@ latest_posts:
   enabled: false
 ---
 
-I am a Ph.D. student in Chemistry at Princeton University, working with [Prof. Sharon Hammes-Schiffer](https://chemistry.princeton.edu/faculty-research/faculty/sharon-hammes-schiffer). My research focuses on multicomponent quantum chemistry within the nuclear-electronic orbital (NEO) framework, in which specified nuclei, typically protons, are treated quantum mechanically on the same footing as the electrons.
+I am a Ph.D. candidate in the Department of Chemistry at Princeton University, working with [Prof. Sharon Hammes-Schiffer](https://chemistry.princeton.edu/faculty-research/faculty/sharon-hammes-schiffer). My research focuses on multicomponent quantum chemistry within the nuclear-electronic orbital (NEO) framework, in which specified nuclei, typically protons, are treated quantum mechanically on the same footing as the electrons.
 
-My current work centers on two directions: the development of electron-proton correlation functionals for NEO density functional theory, and nonadiabatic rate theories built on the NEO framework (NEO-NATST and NEO-GRT) for computing rate constants and kinetic isotope effects of hydrogen transfer reactions. I also contribute to the development of the [Q-Chem](https://www.q-chem.com/) quantum chemistry package and maintain the `neo-natst` Python package.
+My work follows two directions. The first is the development of accurate and efficient NEO methods for computing proton vibrational excitation energies and tunneling splittings. The second is the application of the NEO framework to chemical reactions through NEO general rate theory (NEO-GRT), which captures hydrogen tunneling effects and enables accurate and efficient calculation of rate constants and kinetic isotope effects. I maintain the NEO-GRT package and contribute to the development of the [Q-Chem](https://www.q-chem.com/) quantum chemistry program.
 
-Before coming to Princeton, I received my B.S. in Chemistry with a minor in Computer Science from KAIST, where I studied the computational photodynamics of OLED materials with Prof. Young Min Rhee.
+Before coming to Princeton, I received my B.S. in Chemistry with a minor in Computer Science from KAIST, where I studied chemical-protein interactions using classical molecular dynamics simulations and docking, and subsequently the computational photodynamics of OLED materials with Prof. Young Min Rhee.

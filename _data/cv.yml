@@ -5,7 +5,7 @@
 
 cv:
   name: Jang Mok
-  label: Ph.D. Student in Chemistry
+  label: Ph.D. Candidate in Chemistry
   email: jy8587@princeton.edu
   location: Princeton, NJ
 
@@ -25,8 +25,6 @@ cv:
         studyType: B.S.
         # start_date: TODO
         # end_date: TODO
-        highlights:
-          - "Undergraduate research with Prof. Young Min Rhee"
 
       - institution: University of California, Berkeley
         location: Berkeley, CA, USA
@@ -48,17 +46,19 @@ cv:
         location: Princeton, NJ, USA
         # start_date: TODO
         highlights:
-          - Nuclear-electronic orbital (NEO) methods and electron-proton correlation functionals
-          - Nonadiabatic rate theory (NEO-NATST / NEO-GRT) for hydrogen transfer and kinetic isotope effects
+          - Development of accurate and efficient NEO methods for proton vibrational excitation energies and tunneling splittings
+          - NEO general rate theory (NEO-GRT) for rate constants and kinetic isotope effects of hydrogen transfer reactions
+          - Maintainer of the NEO-GRT package; contributor to Q-Chem
           - Member of the DOE Center for Hybrid Approaches in Solar Energy to Liquid Fuels (CHASE)
 
       - company: KAIST, Department of Chemistry
-        position: Undergraduate Researcher, Rhee Group
+        position: Undergraduate Researcher
         location: Daejeon, Korea
         # start_date: TODO
         # end_date: TODO
         highlights:
-          - Computational photodynamics of OLED materials (exciton dynamics and fluorescence quenching)
+          - Chemical-protein interactions using classical molecular dynamics simulations and docking
+          - Computational photodynamics of OLED materials (exciton dynamics and fluorescence quenching) with Prof. Young Min Rhee
 
       # TODO: add teaching (TA) positions, e.g.
       # - company: Princeton University
