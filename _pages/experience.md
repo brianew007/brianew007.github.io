@@ -25,7 +25,7 @@ Undergraduate Researcher with Prof. Young Min Rhee <!-- TODO: add years -->
 ### Software Development
 
 - **[Q-Chem](https://www.q-chem.com/)**: quantum chemistry program; contributor to NEO method development
-- **NEO-GRT package**: package for NEO general rate theory calculations of rate constants and KIEs; maintainer <!-- TODO: add a link to the repository if it is public -->
+- **[NEO-GRT package](https://github.com/shsgroup/NEO-GRT)**: package for NEO general rate theory calculations of rate constants and KIEs; maintainer
 
 <!--
 TODO: uncomment and fill in when ready.

@@ -21,7 +21,7 @@ cv:
 
       - institution: KAIST
         location: Daejeon, Korea
-        area: Chemistry (Minor in Computer Science)
+        area: Chemistry (Minor, School of Computing)
         studyType: B.S.
         # start_date: TODO
         # end_date: TODO
@@ -48,7 +48,7 @@ cv:
         highlights:
           - Development of accurate and efficient NEO methods for capturing nuclear quantum effects (e.g., proton vibrational excitation energies and tunneling splittings)
           - NEO-based protocols for chemical reactions, including pKa prediction with anharmonic Gibbs free energies and NEO general rate theory (NEO-GRT) for rate constants and kinetic isotope effects
-          - Maintainer of the NEO-GRT package; contributor to Q-Chem
+          - Maintainer of the NEO-GRT package (github.com/shsgroup/NEO-GRT); contributor to Q-Chem
           - Member of the DOE Center for Hybrid Approaches in Solar Energy to Liquid Fuels (CHASE)
 
       - company: KAIST, Department of Chemistry

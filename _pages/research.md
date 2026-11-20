@@ -25,5 +25,5 @@ I develop NEO-based protocols for predicting the thermodynamics and kinetics of 
 
 ### Software
 
-- **NEO-GRT package**: package for NEO general rate theory calculations of rate constants and KIEs (maintainer).
+- **[NEO-GRT package](https://github.com/shsgroup/NEO-GRT)**: package for NEO general rate theory calculations of rate constants and KIEs (maintainer).
 - **[Q-Chem](https://www.q-chem.com/)**: contributor to the development of NEO methods in the Q-Chem quantum chemistry program.
